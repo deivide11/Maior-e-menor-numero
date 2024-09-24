@@ -1,3 +1,6 @@
+// Digite 3 números aleatórios 
+// Ele dará as ordens decrescente
+
 var valor1 = parseInt(prompt("Digite o primeiro valor"));
 var valor2 = parseInt(prompt("Digite o segundo valor"));
 var valor3 = parseInt(prompt("Digite o terceiro valor"));
